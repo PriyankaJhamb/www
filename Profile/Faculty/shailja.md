@@ -1,9 +1,8 @@
-
-## Sourabh Sharma
+## Geetika Sharma
 
 ### Cyber Security Expert
 
-![Display picture](Photos/SS.png)
+![Display picture](Photos/Shailja.jpg)
 
 ## Qualification
 
@@ -16,10 +15,10 @@
 
 | Sr. No. | Item        | Description     |
 | ------- | ----------- | --------------- |
-| 1       | DoB         | 31/12/1986    |
+| 1       | DoB         | 31/12/2001      |
 | 2       | Designation | Professor       |
 | 3       | Email       | foo@gndec.ac.in |
-| 4       | Experience  | 9 years         |
+| 4       | Experience  | 2 years         |
 
 ## Hobbies
 
